@@ -1,0 +1,111 @@
+C:\Users\geths\source\repos\PBC\PBC\bin\Debug\PBC.exe.config
+C:\Users\geths\source\repos\PBC\PBC\bin\Debug\PBC.exe
+C:\Users\geths\source\repos\PBC\PBC\bin\Debug\PBC.pdb
+C:\Users\geths\source\repos\PBC\PBC\obj\Debug\PBC.csproj.AssemblyReference.cache
+C:\Users\geths\source\repos\PBC\PBC\obj\Debug\PBC.Form1.resources
+C:\Users\geths\source\repos\PBC\PBC\obj\Debug\PBC.Properties.Resources.resources
+C:\Users\geths\source\repos\PBC\PBC\obj\Debug\PBC.csproj.GenerateResource.cache
+C:\Users\geths\source\repos\PBC\PBC\obj\Debug\PBC.csproj.CoreCompileInputs.cache
+C:\Users\geths\source\repos\PBC\PBC\obj\Debug\PBC.exe
+C:\Users\geths\source\repos\PBC\PBC\obj\Debug\PBC.pdb
+C:\Users\geths\source\repos\PBC\PBC\obj\Debug\PBC.AddBook.resources
+C:\Users\geths\source\repos\PBC\PBC\obj\Debug\PBC.AddSeries.resources
+C:\Users\geths\source\repos\PBC\PBC\obj\Debug\PBC.ModifyBook.resources
+D:\PBC\PBC\bin\Debug\PBC.exe.config
+D:\PBC\PBC\bin\Debug\PBC.exe
+D:\PBC\PBC\bin\Debug\PBC.pdb
+D:\PBC\PBC\obj\Debug\PBC.csproj.AssemblyReference.cache
+D:\PBC\PBC\obj\Debug\PBC.AddBook.resources
+D:\PBC\PBC\obj\Debug\PBC.AddSeries.resources
+D:\PBC\PBC\obj\Debug\PBC.Form1.resources
+D:\PBC\PBC\obj\Debug\PBC.ModifyBook.resources
+D:\PBC\PBC\obj\Debug\PBC.Properties.Resources.resources
+D:\PBC\PBC\obj\Debug\PBC.csproj.GenerateResource.cache
+D:\PBC\PBC\obj\Debug\PBC.csproj.CoreCompileInputs.cache
+D:\PBC\PBC\obj\Debug\PBC.exe
+D:\PBC\PBC\obj\Debug\PBC.pdb
+F:\PBC\PBC\bin\Debug\PBC.exe.config
+F:\PBC\PBC\bin\Debug\PBC.exe
+F:\PBC\PBC\bin\Debug\PBC.pdb
+F:\PBC\PBC\obj\Debug\PBC.csproj.AssemblyReference.cache
+F:\PBC\PBC\obj\Debug\PBC.ModifyBook.resources
+F:\PBC\PBC\obj\Debug\PBC.Properties.Resources.resources
+F:\PBC\PBC\obj\Debug\PBC.csproj.GenerateResource.cache
+F:\PBC\PBC\obj\Debug\PBC.csproj.CoreCompileInputs.cache
+F:\PBC\PBC\obj\Debug\PBC.exe
+F:\PBC\PBC\obj\Debug\PBC.pdb
+F:\PBC\PBC\obj\Debug\PBC.ModifySeries.resources
+D:\Schoolwork\PBC\PBC\bin\Debug\PBC.exe.config
+D:\Schoolwork\PBC\PBC\bin\Debug\PBC.exe
+D:\Schoolwork\PBC\PBC\bin\Debug\PBC.pdb
+D:\Schoolwork\PBC\PBC\obj\Debug\PBC.csproj.AssemblyReference.cache
+D:\Schoolwork\PBC\PBC\obj\Debug\PBC.Form1.resources
+D:\Schoolwork\PBC\PBC\obj\Debug\PBC.ModifyBook.resources
+D:\Schoolwork\PBC\PBC\obj\Debug\PBC.ModifySeries.resources
+D:\Schoolwork\PBC\PBC\obj\Debug\PBC.Properties.Resources.resources
+D:\Schoolwork\PBC\PBC\obj\Debug\PBC.csproj.GenerateResource.cache
+D:\Schoolwork\PBC\PBC\obj\Debug\PBC.csproj.CoreCompileInputs.cache
+D:\Schoolwork\PBC\PBC\obj\Debug\PBC.exe
+D:\Schoolwork\PBC\PBC\obj\Debug\PBC.pdb
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\bin\Debug\PBC.exe.config
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\bin\Debug\PBC.exe
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\bin\Debug\PBC.pdb
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\obj\Debug\PBC.csprojAssemblyReference.cache
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\obj\Debug\PBC.ModifyBook.resources
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\obj\Debug\PBC.ModifySeries.resources
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\obj\Debug\PBC.Properties.Resources.resources
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\obj\Debug\PBC.csproj.GenerateResource.cache
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\obj\Debug\PBC.csproj.CoreCompileInputs.cache
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\obj\Debug\PBC.exe
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\obj\Debug\PBC.pdb
+C:\Users\LE1862738\OneDrive - Champlain Regional College\Desktop\PBC\PBC\obj\Debug\PBC.PBC.resources
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\bin\Debug\PBC.exe.config
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\bin\Debug\PBC.exe
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\bin\Debug\PBC.pdb
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\obj\Debug\PBC.csprojAssemblyReference.cache
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\obj\Debug\PBC.PBC.resources
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\obj\Debug\PBC.ModifyBook.resources
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\obj\Debug\PBC.ModifySeries.resources
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\obj\Debug\PBC.Properties.Resources.resources
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\obj\Debug\PBC.csproj.GenerateResource.cache
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\obj\Debug\PBC.csproj.CoreCompileInputs.cache
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\obj\Debug\PBC.exe
+C:\Users\LE1862738\Downloads\Files\PBC\PBC\obj\Debug\PBC.pdb
+F:\PBC\PBC\obj\Debug\PBC.PBC.resources
+C:\Users\LE1862738\Downloads\PBC\PBC\bin\Debug\PBC.exe.config
+C:\Users\LE1862738\Downloads\PBC\PBC\bin\Debug\PBC.exe
+C:\Users\LE1862738\Downloads\PBC\PBC\bin\Debug\PBC.pdb
+C:\Users\LE1862738\Downloads\PBC\PBC\obj\Debug\PBC.csprojAssemblyReference.cache
+C:\Users\LE1862738\Downloads\PBC\PBC\obj\Debug\PBC.PBC.resources
+C:\Users\LE1862738\Downloads\PBC\PBC\obj\Debug\PBC.ModifyBook.resources
+C:\Users\LE1862738\Downloads\PBC\PBC\obj\Debug\PBC.ModifySeries.resources
+C:\Users\LE1862738\Downloads\PBC\PBC\obj\Debug\PBC.Properties.Resources.resources
+C:\Users\LE1862738\Downloads\PBC\PBC\obj\Debug\PBC.csproj.GenerateResource.cache
+C:\Users\LE1862738\Downloads\PBC\PBC\obj\Debug\PBC.csproj.CoreCompileInputs.cache
+C:\Users\LE1862738\Downloads\PBC\PBC\obj\Debug\PBC.exe
+C:\Users\LE1862738\Downloads\PBC\PBC\obj\Debug\PBC.pdb
+C:\Users\geths\Downloads\PBC\PBC\bin\Debug\PBC.exe.config
+C:\Users\geths\Downloads\PBC\PBC\bin\Debug\PBC.exe
+C:\Users\geths\Downloads\PBC\PBC\bin\Debug\PBC.pdb
+C:\Users\geths\Downloads\PBC\PBC\obj\Debug\PBC.csproj.AssemblyReference.cache
+C:\Users\geths\Downloads\PBC\PBC\obj\Debug\PBC.PBC.resources
+C:\Users\geths\Downloads\PBC\PBC\obj\Debug\PBC.ModifyBook.resources
+C:\Users\geths\Downloads\PBC\PBC\obj\Debug\PBC.ModifySeries.resources
+C:\Users\geths\Downloads\PBC\PBC\obj\Debug\PBC.Properties.Resources.resources
+C:\Users\geths\Downloads\PBC\PBC\obj\Debug\PBC.csproj.GenerateResource.cache
+C:\Users\geths\Downloads\PBC\PBC\obj\Debug\PBC.csproj.CoreCompileInputs.cache
+C:\Users\geths\Downloads\PBC\PBC\obj\Debug\PBC.exe
+C:\Users\geths\Downloads\PBC\PBC\obj\Debug\PBC.pdb
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\bin\Debug\PBC.exe.config
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\bin\Debug\PBC.exe
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\bin\Debug\PBC.pdb
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\obj\Debug\PBC.csproj.AssemblyReference.cache
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\obj\Debug\PBC.csproj.SuggestedBindingRedirects.cache
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\obj\Debug\PBC.PBC.resources
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\obj\Debug\PBC.ModifyBook.resources
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\obj\Debug\PBC.ModifySeries.resources
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\obj\Debug\PBC.Properties.Resources.resources
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\obj\Debug\PBC.csproj.GenerateResource.cache
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\obj\Debug\PBC.csproj.CoreCompileInputs.cache
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\obj\Debug\PBC.exe
+C:\Users\geths\OneDrive\Desktop\PBC\PBC\obj\Debug\PBC.pdb

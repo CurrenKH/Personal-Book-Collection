@@ -1,0 +1,11 @@
+Series,Individual Books,Fantasy,3,Kennebec
+Series,Favorites,Fiction-Mystery,3,Satrimono Publishing
+Series,Recommended,Horror,2,Mass Market Paperbacks
+Book,Individual Books,Twilight,2005,Stephenie Meyer,498
+Book,Individual Books,War,2008,Jonathan Franzen/Phil Wilson,122
+Book,Individual Books,Olympus,1997,Zadie Smith,248
+Book,Favorites,Hatchet,1986,Gary Paulsen,206
+Book,Favorites,Summertime,2014,Pete Bear/Douglas Patrick,411
+Book,Favorites,Lord of the Flies,1954,William Golding,224
+Book,Recommended,The Exorcist,1971,William Peter Blatty,340
+Book,Recommended,The Shining,1977,Stephen King,447
